@@ -13,4 +13,4 @@ Kira's voice assistant in Python with artificial intelligence and machine learni
 2. pip install pyttsx3
 3. pip install sounddevice
 4. pip install scikit-learn
-5. python -m sounddevice  - для просмотра звукофых входов и выходов(акивные помечены стрелками '<' или '>')
+5. python -m sounddevice  - для просмотра звукоdых входов и выходов
