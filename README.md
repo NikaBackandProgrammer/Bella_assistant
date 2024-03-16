@@ -1,11 +1,10 @@
 # Kira_assistant
-Kira's voice assistant in Python with artificial intelligence and machine learning
+Kira's voice ofline assistant in Python with artificial intelligence and machine learning
 
 Ресурсы, используемые в работе:
 
 1. Ресурс: https://alphacephei.com/vosk/
-    vosk-model-small-ru-0.22
-    библиотека для распознавания речи
+vosk-model-small-ru-0.22 - библиотека для распознавания русской речи
 
 
 Работа с терминалом: 
